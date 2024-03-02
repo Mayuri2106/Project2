@@ -1,0 +1,316 @@
+.Navbar{
+    background-color:#6F6AF7;
+    display: flex;
+    width: 1509px;
+height: 80px;
+
+}
+
+#heading{
+font-family: Delius Unicase;
+font-size: 50px;
+font-weight: 700;
+text-align: left;
+color: #FFFF;
+margin-left: 45px;
+margin-top: 12px;
+
+}
+.Nav-list{
+    margin-right: 40px;
+    margin-left: 60px;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;    
+
+}
+
+li{
+    font-family: DM Sans;
+    font-size: 30px;
+    margin-left: 45px;
+    margin-top: 10px;
+    color:#fff;
+    font-weight: 400;
+}
+
+#icon-1{
+    width: 7.77px;
+height: 10px;
+margin-top: 25px;
+margin-left: 2px;
+}
+
+#Search{
+width: 180px;
+height: 30px;
+top: 36px;
+border-radius: 63px;
+border-color: #fff;
+margin-top: 23px;
+margin-right: 350px;
+}
+
+
+
+#icon-2{
+    width: 50px;
+height: 30px;
+margin-top: 30px;
+
+}
+.Container1{
+    display:flex;
+}
+#image4{
+margin: 100px 50px 100px 100px;
+height:500px;
+width:400px;
+
+}
+
+.Box1{
+    width: 960px;
+height: 500px;
+
+border-radius: 20px;
+border: 6px;
+ background: #E5D8FF;
+ margin-top: 100px;
+margin-right: 100px;
+}
+
+#Para1{
+    font-family: DM Sans;
+    font-size: 29px;
+    font-weight: 400;
+    line-height: 52px;
+    text-align: left;
+    color: #6F7373;
+    padding-left: 25px;
+
+
+}
+
+
+.image-container1{
+    width: 70px;
+    height: 73px;
+    position: fixed;
+    top:200px;
+    left:1435px;
+    border:3px solid #000000;
+    border-radius: 8px;
+    padding-top: 2px;
+    
+
+}
+
+.bottom-img1{
+    position: relative;
+    z-index: 1;
+}
+
+.top-img1{
+    position: absolute;
+z-index: 2;
+top:15px;
+left:15px;
+
+}
+
+
+.image-container2{
+    width: 70px;
+    height: 73px;
+    position: fixed;
+    top:282px;
+    left:1435px;
+    border:3px solid #000000;
+    border-radius: 8px;
+    padding-top: 2px;
+   
+
+}
+
+.fb-img{
+    position:absolute;
+    top:5px;
+    left:3px;
+}
+
+.image-container3{
+    width: 70px;
+    height: 71px;
+    position: fixed;
+    top:365px;
+    left:1435px;
+    border:3px solid #000000;
+    border-radius: 8px;
+    padding-top: 2px;
+    
+
+}
+
+.twitter-img{
+    position:absolute;
+    top:15px;
+    left:5px;
+}
+
+
+.Container2{
+    margin-left:100px;
+    margin-right: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Box2{
+    width: 290px;
+    height: 110px;
+    border-radius: 11px;
+    
+
+    box-shadow: 0px 5px 10px 0px #00000066;
+
+    
+}
+.color1{
+    background-color: #929DFF;
+}
+
+.color2{background-color: #734CF2;
+}
+
+.color3{background-color:  #D288FF;
+    
+}
+
+.color4{background-color: #000000;
+}
+
+.Para2{
+   color: #FFFFFF;
+   font-family: DM Sans;
+   font-size: 28px;
+   font-weight: 700;
+   line-height: 45px;
+margin-top: 10px;
+margin-left: 15px;
+   text-align: left;
+   
+}
+
+.Container3{
+    width: 1260px;
+height: 500px;
+border-radius: 21px;
+background-color:  #483EFF;
+margin: 100px 0px 0px 100px;
+padding: 20px;
+display: flex;
+}
+
+.Box3{
+
+    width: 290px;
+height: 100px;
+border-radius: 22px;
+border:1px solid white;
+margin-left: 50px;
+margin-top: 50px;
+
+
+}
+
+.Para3{color: #FFFFFF;
+    font-family: DM Sans;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 45px;
+    text-align: center;}
+
+.fontColor{
+    color:#000000;
+}
+
+.color5{
+    background-color: #BCE0F6;
+    box-shadow: 0px 6px 25px 0px #00000063;
+}
+
+.Box4{
+    width: 1004px;
+height: 500px;
+background-color: #fff;
+border-radius: 19px;
+margin-left: 65px;
+
+}
+
+h2{
+    font-family: Inter;
+font-size: 38px;
+font-weight: 700;
+margin-top: 80px;
+text-align: left;
+margin-left: 30px;
+color: #04285A;
+}
+
+table{
+    margin-left: 50px;
+    font-size:20px;
+    border-spacing: 20px;
+}
+
+.Details{
+    
+    font-weight: 700;
+    }
+
+td{
+    color:#04285A;
+}
+
+.custom-button{
+    background-color: black;
+    color: white;
+    width: 150px;
+height: 50px;
+border-radius: 9px;
+margin-top: 70px;
+margin-left: 650px;
+font-size: 20px;
+
+}
+
+.custom-button:hover{
+    background-color: rgb(27, 26, 26);
+}
+
+.image-container{
+    width: 90px;
+height: 90px;
+position: fixed;
+top:575px;
+left:1305px;
+}
+
+.top-img{
+position: absolute;
+z-index: 2;
+top:40px;
+left:50px;
+
+}
+
+.bottom-img{
+    position: relative;
+    z-index: 1;
+  
+}
